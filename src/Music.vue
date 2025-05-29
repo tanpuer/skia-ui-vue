@@ -24,7 +24,7 @@ export default {
 <template>
   <page style="width:1080px;height:1920px">
     <scroll style="width:1080px;height:1920px;justify-content: center;align-items: center">
-      <button @click="handleClick" style="width: 260px; height: 100px; background-color: #00ff00; font-size: 50px"
+      <button @click="handleClick" style="background-color: #00ff00; font-size: 50px"
               text="back"
       />
     </scroll>

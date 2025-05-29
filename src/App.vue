@@ -40,7 +40,7 @@ export default {
       />
       <svg style="width: 226px;height: 227px; margin-bottom: 50px;" src="vue.svg"></svg>
       <video style="width: 1080px;height: 607px" url="yiluxiangbei.mp4"></video>
-      <button @click="handlePush" style="width: 400px; height: 100px; background-color: #00ff00; margin-top: 50px; font-size: 50px"
+      <button @click="handlePush" style="background-color: #00ff00; margin-top: 50px; font-size: 50px"
               text="click to music"/>
     </scroll>
   </page>
